@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nvit-app
-          image: davidokpe/nvit-app:latest
+          image: dauda111/nvit-app
           ports:
             - containerPort: 5000
 
