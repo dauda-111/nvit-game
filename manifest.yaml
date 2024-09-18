@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nvit-app
-          image: dauda111/nvit-app
+          image: dauda111/nvit-game
           ports:
             - containerPort: 5000
 
